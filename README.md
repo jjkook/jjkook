@@ -1,7 +1,11 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/)
 
 
-### Hi there 👋
+I am an M.S. candidate in Computational Finance at Carnegie Mellon University. My recent research interests are in adaptive multi-period portfolio selection under different macroeconomic environments and learning to rank with multinomial logic contextual bandit model. More broadly my research interest includes portfolio optimization, reinforcement learning, bandit algorithms, and their applications
+
+Since 2016, I initiated and led the Financial Bigdata Analysis student research group which studies the field at the intersection of quantitative finance and data science. I believe in the value of applying practical, cutting-edge data science technologies into traditional investment strategies
+
+I have also had the pleasure to participate in a project engaged with NH Investment and Securities and to work on projects at Assetplus Investment Management
 
 <!--
 **jjkook/jjkook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
