@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/) [![Website Badge](https://img.shields.io/badge/FBA_Quant-black?style=flat-square&link=fbaquant.com)](fbaquant.com)
+
   
-[![Website Badge](https://img.shields.io/badge/FBA_Quant-black?style=flat-square&link=fbaquant.com)](fbaquant.com)
 
 
 
