@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/) [![Website Badge](https://img.shields.io/badge/FBA_Quant-black?style=flat-square&link=fbaquant.com)](fbaquant.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/) [![Website Badge](https://img.shields.io/badge/FBA_Quant-black?style=flat-square&link=www.fbaquant.com)](www.fbaquant.com)
 
 
 I am a master's student majoring in __Computational Finance__ at __Carnegie Mellon University__. 
