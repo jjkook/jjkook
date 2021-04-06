@@ -1,8 +1,8 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/jungoh-john-kook-2702b11a8/)
 
 
-I am a master's student majoring in Computational Finance at Carnegie Mellon University. My recent research interests are in quantitative portfolio management, finite difference methods for financial derivatives. I am also interested in reinforcement learning, bandit algorithms, statistical machine learning and their applications in finance.
+I am a master's student majoring in __Computational Finance__ at __Carnegie Mellon University__. My recent research interests are in __quantitative portfolio management__, __finite difference methods__ for financial derivatives. I am also interested in __reinforcement learning__, __bandit algorithms__, __statistical machine learning__ and their applications in finance.
 
-Since 2016, I initiated and led the FBA Quant student research group which studies the field at the intersection of quantitative finance and data science. I believe in the value of applying practical, cutting-edge data science technologies into traditional investment strategies.
+Since 2016, I initiated and led the __FBA Quant__ student research group which studies the field at the intersection of __quantitative finance__ and __data science__. I believe in the value of applying practical, cutting-edge data science technologies into traditional investment strategies.
 
-I have also had the pleasure to participate in a project engaged with NH Investment and Securities and to work on projects at Assetplus Investment Management.
+I have also had the pleasure to participate in a project engaged with __NH Investment and Securities__ and to work on projects at __Assetplus Investment Management__.
