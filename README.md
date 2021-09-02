@@ -7,4 +7,4 @@ My recent research interests are in __factor modeling__, __portfolio optimizati
 
 Since 2016, I initiated and led the __FBA Quant__ quantitative finance student research group which studies the field at the intersection of __quantitative finance__ and __data science__. I believe in the value of applying practical, cutting-edge data science technologies to traditional investment strategies.
 
-I also have had the pleasure to work at __Boston Consulting Group__ as a data analytics intern, __Assetplus Investments Management__ as a quantitative research intern, and __NH Investment & Securities__ as a researcher.
+I also have had the pleasure to work at __Boston Consulting Group__, __Assetplus Investments Management__, and __NH Investment & Securities__.
